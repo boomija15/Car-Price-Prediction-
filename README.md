@@ -1,2 +1,2 @@
 # Car-Price-Prediction-
-Car price prediction is a machine learning project to predict the current selling price of the car based on various factors such as fuel type, kilometers driven, year of manufacturing, etc
+Car price prediction is a machine learning project aimed at predicting the current selling price of cars based on various factors. The dataset used for this project is 'car data.csv' from Kaggle. The factors considered include fuel type, present pricing, kilometers driven, transmission type, selling type, and more. Linear Regression and Random Forest Regression algorithms were applied in Python to predict the selling price values. Among the two, the Random Forest Regressor demonstrated the highest accuracy in predicting car prices.
